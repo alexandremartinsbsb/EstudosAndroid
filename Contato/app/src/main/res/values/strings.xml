@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contatos</string>
+
+    <string name="txt_label_contato">Contato</string>
+    <string name="txt_nome">Nome: </string>
+    <string name="txt_telefone">Telefone: </string>
+    <string name="txt_btn_normal">Chamar - normal</string>
+    <string name="txt_btn_cobrar">Chamar - cobrar</string>
+
+    <string name="txt_menu_editar">Editar</string>
+</resources>
